@@ -8,3 +8,5 @@ Mursy's website backend
 
 Mursy's Website Frontend
 [![wakatime](https://wakatime.com/badge/github/MursyBot/frontend.svg)](https://wakatime.com/badge/github/MursyBot/frontend)
+
+[![NaturalTwitch's code::stats stats](https://codestats-readme.avior.me/api?username=naturaltwitch)](https://github.com/Aviortheking/codestats-readme)
