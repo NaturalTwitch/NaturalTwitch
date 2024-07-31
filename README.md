@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm NaturalTwitch, a software developer passionate about building web applications and bots to make life easier and more enjoyable for everyone.
+Hey there! 👋 I'm Elizabeth, a software developer passionate about building web applications and bots to make life easier and more enjoyable for everyone.
 
 - 🔭 I’m currently working on various projects, including:
   - [Mursy's website backend](https://github.com/MursyBot/backend)
