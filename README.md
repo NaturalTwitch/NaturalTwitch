@@ -1,5 +1,3 @@
-# Mursy is currently not online right now as I forgot to backup the database, and need to rebuild it from scratch
-
 # About Me
 
 Hey there! 👋 I'm NaturalTwitch, a software developer passionate about building web applications and bots to make life easier and more enjoyable for everyone.
